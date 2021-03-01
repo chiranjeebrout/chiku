@@ -5,3 +5,5 @@ my job is software enginear
 
 my mothername is tulasi
 my mother from jagatsighpur
+
+my father name is niranjan
